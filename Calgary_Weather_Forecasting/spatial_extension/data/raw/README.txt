@@ -1,0 +1,1 @@
+Raw monthly multi-station ECCC downloads are intentionally omitted. Run download_spatial_observations.py to regenerate them. Clean and processed data required for the verified experiments are included.

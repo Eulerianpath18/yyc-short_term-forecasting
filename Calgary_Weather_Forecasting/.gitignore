@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.idea/
+.pytest_cache/
+.ipynb_checkpoints/
+/data/raw/*
+!/data/raw/README.txt
+/spatial_extension/data/raw/*
+!/spatial_extension/data/raw/README.txt
+eccc_benchmark/results/

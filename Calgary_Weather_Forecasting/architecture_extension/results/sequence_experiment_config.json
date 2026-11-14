@@ -1,0 +1,34 @@
+{
+  "lookback_hours": 24,
+  "stations": 6,
+  "variables_per_station": [
+    "temperature",
+    "dew_point",
+    "relative_humidity",
+    "wind_speed"
+  ],
+  "value_channels": 24,
+  "mask_channels": 24,
+  "total_sequence_channels": 48,
+  "static_features": 4,
+  "horizons": [
+    1,
+    6,
+    12,
+    24,
+    48
+  ],
+  "seeds": [
+    2403,
+    2026,
+    17
+  ],
+  "same_information_for_mlp_and_tcn": true,
+  "same_training_rule": true,
+  "max_epochs": 15,
+  "patience": 3,
+  "batch_size": 4096,
+  "tcn": "TCNCompact, hidden=16, causal residual blocks, dilations 1/2/4/8",
+  "tcn_receptive_field_hours": 31,
+  "note": "CPU-budgeted controlled architecture comparison; not an exhaustive TCN search."
+}

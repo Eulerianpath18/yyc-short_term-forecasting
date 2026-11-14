@@ -1,0 +1,20 @@
+Archive subset for a future operational comparison at Calgary International Airport
+
+Target station    Calgary International Airport (YYC), climate ID 3031092
+Period            Calendar year 2025, subject to product availability
+Initializations   00 and 12 UTC
+Forecast leads    1, 6, 12, 24 and 48 hours
+
+Raw HRDPS
+Request near-surface air temperature at the closest native grid point to YYC
+(approximately 51.12 N, 114.01 W). A point-extracted CSV or native GRIB2
+with grid coordinates and units would identify the verification point.
+
+Statistically post-processed guidance
+Request HRDPS PROGNOS-MLR AirTemp at YYC for the overlapping operational
+period. Confirm the available cycles, leads, measurement height and station
+identifier with the archive before matching.
+
+The eventual comparison requires common forecast origins, lead times and
+verified temperatures across all systems. Confirm availability and request a
+quote and a sample before commissioning a chargeable retrieval.

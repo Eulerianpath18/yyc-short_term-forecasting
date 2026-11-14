@@ -1,0 +1,11 @@
+{
+  "hidden_dim": 32,
+  "learning_rate": 0.001,
+  "batch_size": 64,
+  "weight_decay": 1e-05,
+  "max_epochs": 200,
+  "patience": 15,
+  "seed": 2403,
+  "local_input_dim": 34,
+  "spatial_input_dim": 67
+}

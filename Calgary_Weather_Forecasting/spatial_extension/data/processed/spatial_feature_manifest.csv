@@ -1,0 +1,68 @@
+feature,source_station,feature_group,variable,lag_hours
+temp_lag_0,CALGARY INTL A,local,temperature,0
+temp_lag_1,CALGARY INTL A,local,temperature,1
+temp_lag_2,CALGARY INTL A,local,temperature,2
+temp_lag_3,CALGARY INTL A,local,temperature,3
+temp_lag_4,CALGARY INTL A,local,temperature,4
+temp_lag_5,CALGARY INTL A,local,temperature,5
+temp_lag_6,CALGARY INTL A,local,temperature,6
+temp_lag_7,CALGARY INTL A,local,temperature,7
+temp_lag_8,CALGARY INTL A,local,temperature,8
+temp_lag_9,CALGARY INTL A,local,temperature,9
+temp_lag_10,CALGARY INTL A,local,temperature,10
+temp_lag_11,CALGARY INTL A,local,temperature,11
+temp_lag_12,CALGARY INTL A,local,temperature,12
+temp_lag_13,CALGARY INTL A,local,temperature,13
+temp_lag_14,CALGARY INTL A,local,temperature,14
+temp_lag_15,CALGARY INTL A,local,temperature,15
+temp_lag_16,CALGARY INTL A,local,temperature,16
+temp_lag_17,CALGARY INTL A,local,temperature,17
+temp_lag_18,CALGARY INTL A,local,temperature,18
+temp_lag_19,CALGARY INTL A,local,temperature,19
+temp_lag_20,CALGARY INTL A,local,temperature,20
+temp_lag_21,CALGARY INTL A,local,temperature,21
+temp_lag_22,CALGARY INTL A,local,temperature,22
+temp_lag_23,CALGARY INTL A,local,temperature,23
+dew_point,CALGARY INTL A,local,dew_point,0
+relative_humidity,CALGARY INTL A,local,relative_humidity,0
+station_pressure,CALGARY INTL A,local,station_pressure,0
+wind_speed,CALGARY INTL A,local,wind_speed,0
+wind_dir_sin,CALGARY INTL A,local,wind_direction,0
+wind_dir_cos,CALGARY INTL A,local,wind_direction,0
+hour_sin,calendar,local,hour_sin,0
+hour_cos,calendar,local,hour_cos,0
+doy_sin,calendar,local,doy_sin,0
+doy_cos,calendar,local,doy_cos,0
+bow_valley_temp_lag_0,Bow Valley,spatial,temperature,0
+bow_valley_temp_lag_3,Bow Valley,spatial,temperature,3
+bow_valley_temp_lag_6,Bow Valley,spatial,temperature,6
+bow_valley_dew_point,Bow Valley,spatial,dew_point,0
+bow_valley_relative_humidity,Bow Valley,spatial,relative_humidity,0
+bow_valley_wind_speed,Bow Valley,spatial,wind_speed,0
+bow_valley_station_pressure,Bow Valley,spatial,station_pressure,0
+sundre_temp_lag_0,Sundre A,spatial,temperature,0
+sundre_temp_lag_3,Sundre A,spatial,temperature,3
+sundre_temp_lag_6,Sundre A,spatial,temperature,6
+sundre_dew_point,Sundre A,spatial,dew_point,0
+sundre_relative_humidity,Sundre A,spatial,relative_humidity,0
+sundre_wind_speed,Sundre A,spatial,wind_speed,0
+sundre_station_pressure,Sundre A,spatial,station_pressure,0
+drumheller_temp_lag_0,Drumheller East,spatial,temperature,0
+drumheller_temp_lag_3,Drumheller East,spatial,temperature,3
+drumheller_temp_lag_6,Drumheller East,spatial,temperature,6
+drumheller_dew_point,Drumheller East,spatial,dew_point,0
+drumheller_relative_humidity,Drumheller East,spatial,relative_humidity,0
+drumheller_wind_speed,Drumheller East,spatial,wind_speed,0
+claresholm_temp_lag_0,Claresholm,spatial,temperature,0
+claresholm_temp_lag_3,Claresholm,spatial,temperature,3
+claresholm_temp_lag_6,Claresholm,spatial,temperature,6
+claresholm_dew_point,Claresholm,spatial,dew_point,0
+claresholm_relative_humidity,Claresholm,spatial,relative_humidity,0
+claresholm_wind_speed,Claresholm,spatial,wind_speed,0
+claresholm_station_pressure,Claresholm,spatial,station_pressure,0
+lacombe_temp_lag_0,Lacombe CDA 2,spatial,temperature,0
+lacombe_temp_lag_3,Lacombe CDA 2,spatial,temperature,3
+lacombe_temp_lag_6,Lacombe CDA 2,spatial,temperature,6
+lacombe_dew_point,Lacombe CDA 2,spatial,dew_point,0
+lacombe_relative_humidity,Lacombe CDA 2,spatial,relative_humidity,0
+lacombe_wind_speed,Lacombe CDA 2,spatial,wind_speed,0

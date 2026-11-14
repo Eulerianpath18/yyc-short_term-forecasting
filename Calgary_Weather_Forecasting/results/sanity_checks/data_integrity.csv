@@ -1,0 +1,7 @@
+file,rows,invalid_timestamps,duplicate_timestamps,strictly_hourly,first,last
+bow_valley_hourly.csv,87672,0,0,True,2016-01-01,2025-12-31 23:00:00
+claresholm_hourly.csv,87672,0,0,True,2016-01-01,2025-12-31 23:00:00
+drumheller_hourly.csv,87672,0,0,True,2016-01-01,2025-12-31 23:00:00
+lacombe_hourly.csv,87672,0,0,True,2016-01-01,2025-12-31 23:00:00
+sundre_hourly.csv,87672,0,0,True,2016-01-01,2025-12-31 23:00:00
+yyc_hourly.csv,87672,0,0,True,2016-01-01,2025-12-31 23:00:00
